@@ -1,0 +1,10 @@
+1) Use the attached dataset "Assignment 2_Web Data.csv".
+2) Write code for preprocessing the data.
+3) Output required - sentiment, entity.
+4) Using the data, create 20 topics.
+5) Please provide the working script for all the above points.
+
+
+Topic Modelling - 20
+gensim module- LDA topic modelling
+
